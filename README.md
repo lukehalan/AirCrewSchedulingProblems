@@ -6,11 +6,11 @@ Solving Air Crew Scheduling Problems using Genetic Algorithms
 
 You are required to implement a binary genetic algorithm to solve three airline crew scheduling problems. We will follow [1] to implement several specific operators such as initialisation, mutation and refinement operators to obtained good results. We will also implement the stochastic ranking method [2] for constraint handling. The problems we will solve are sppnw41, sppnw42 and sppnw43 in OR-Library:
 
-http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/sppnw41.txtLinks to an external site.
+http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/sppnw41.txt
 
-http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/sppnw42.txtLinks to an external site.
+http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/sppnw42.txt
 
-http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/sppnw43.txtLinks to an external site.
+http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/sppnw43.txt
 
 ## Reference:
 
